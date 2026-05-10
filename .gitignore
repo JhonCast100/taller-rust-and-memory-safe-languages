@@ -1,0 +1,25 @@
+# Rust build artifacts
+target/
+Cargo.lock
+
+# Java compiled
+*.class
+*.jar
+
+# Go compiled
+*.exe
+*.test
+/bin/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Editor backups
+*~
+*.swp
